@@ -23,8 +23,8 @@
 #include <memory>
 #include <vector>
 
-#include "kaldi-native-fbank/csrc/feature-window.h"
-#include "kaldi-native-fbank/csrc/mel-computations.h"
+#include "feature-window.h"
+#include "mel-computations.h"
 
 namespace knf {
 

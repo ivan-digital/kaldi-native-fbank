@@ -4,7 +4,7 @@
 
 // This file is an excerpt from kaldi/src/base/kaldi-math.cc
 
-#include "kaldi-native-fbank/csrc/kaldi-math.h"
+#include "kaldi-math.h"
 
 #if defined(_POSIX_THREAD_SAFE_FUNCTIONS)
 #include <mutex>  // NOLINT

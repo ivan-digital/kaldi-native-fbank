@@ -4,7 +4,7 @@
 
 // This file is copied/modified from kaldi/src/feat/feature-window.cc
 
-#include "kaldi-native-fbank/csrc/feature-window.h"
+#include "feature-window.h"
 
 #include <algorithm>
 #include <cmath>
@@ -12,7 +12,7 @@
 #include <vector>
 #include <cstddef>
 
-#include "kaldi-native-fbank/csrc/kaldi-math.h"
+#include "kaldi-math.h"
 
 namespace knf {
 

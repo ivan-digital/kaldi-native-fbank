@@ -12,7 +12,7 @@
 #include <vector>
 #include <cstdint>
 
-#include "kaldi-native-fbank/csrc/log.h"
+#include "log.h"
 
 namespace knf {
 
